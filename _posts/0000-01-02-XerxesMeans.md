@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+>Your father is a hamster and your mother smells of elder berries
 Use the left arrow to go back!
